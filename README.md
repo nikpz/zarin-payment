@@ -1,10 +1,10 @@
-Zarin Pal Payment Gateway
+- Zarin Pal Payment Gateway
 This project is a server-side project and is suitable for a test environment (sandbox). This project demonstrates how to integrate the zarinpal payment gateway into a Node.js application. With this setup, you can securely process payments for goods or services on your website.
-Payment Gateway:  Zarin Pal
-Clone:  https://github.com/nikpz/zarin-payment.git
-Navigate to the project directory in your terminal..
-Run:  npm i && npm start
-Configuration:
+- Payment Gateway:  Zarin Pal
+- Clone:  https://github.com/nikpz/zarin-payment.git
+- Navigate to the project directory in your terminal..
+- Run:  npm i && npm start
+- Configuration:
   - Create a .env file in the root directory of your project.
   - Add your API keys to the .env file:
     - ZAR_MERCHANT_ID='35ab132c-e623-49d3-896a-3442b1c6561c'  (random uuid for sandbox environment)
