@@ -12,7 +12,7 @@ This project is a server-side project and is suitable for a test environment (sa
     - PORT=4000
 
 Replace your_stripe_secret_key and your_stripe_publishable_key with your actual Stripe API keys.
-Nodejs , Postgres , zarinpal-checkout , Sequelize , axios , winston & morgan logger , express and manual cors 
+- Nodejs , Postgres , zarinpal-checkout , Sequelize , axios , winston & morgan logger , express and manual cors 
 
 Author: Nikpz.co  (nikpz.co@gmail.com) , if you need some help to configuration send me an email.
 
