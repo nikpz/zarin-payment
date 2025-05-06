@@ -1,5 +1,5 @@
-- Zarin Pal Payment Gateway
-This project is a server-side project and is suitable for a test environment (sandbox). This project demonstrates how to integrate the zarinpal payment gateway into a Node.js application. With this setup, you can securely process payments for goods or services on your website.
+- Zarin Pal Payment Gateway.
+This project is a server-side project and is suitable for a test environment (sandbox) and demonstrates how to integrate the zarinpal payment gateway into a Node.js application. With this setup, you can securely process payments for goods or services on your website.
 - Payment Gateway:  Zarin Pal
 - Clone:  https://github.com/nikpz/zarin-payment.git
 - Navigate to the project directory in your terminal..
