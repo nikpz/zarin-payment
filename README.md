@@ -7,9 +7,9 @@ Run:  npm i && npm start
 Configuration:
   - Create a .env file in the root directory of your project.
   - Add your API keys to the .env file:
-    ZAR_MERCHANT_ID='35ab132c-e623-49d3-896a-3442b1c6561c'  (random uuid for sandbox environment)
-    ZAR_API_KEY='SDFDADFFRGKREROBKRBVGORY'  (Sandbox environment starts with S char)
-    PORT=4000
+    - ZAR_MERCHANT_ID='35ab132c-e623-49d3-896a-3442b1c6561c'  (random uuid for sandbox environment)
+    - ZAR_API_KEY='SDFDADFFRGKREROBKRBVGORY'  (Sandbox environment starts with S char)
+    - PORT=4000
 
 Replace your_stripe_secret_key and your_stripe_publishable_key with your actual Stripe API keys.
 Nodejs , Postgres , zarinpal-checkout , Sequelize , axios , winston & morgan logger , express and manual cors 
